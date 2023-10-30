@@ -1,0 +1,14 @@
+C:\Users\202308424653\ProjetaCalculadora\obj\Debug\net7.0\ProjetaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202308424653\ProjetaCalculadora\obj\Debug\net7.0\ProjetaCalculadora.AssemblyInfoInputs.cache
+C:\Users\202308424653\ProjetaCalculadora\obj\Debug\net7.0\ProjetaCalculadora.AssemblyInfo.cs
+C:\Users\202308424653\ProjetaCalculadora\obj\Debug\net7.0\ProjetaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\202308424653\ProjetaCalculadora\bin\Debug\net7.0\ProjetaCalculadora.exe
+C:\Users\202308424653\ProjetaCalculadora\bin\Debug\net7.0\ProjetaCalculadora.deps.json
+C:\Users\202308424653\ProjetaCalculadora\bin\Debug\net7.0\ProjetaCalculadora.runtimeconfig.json
+C:\Users\202308424653\ProjetaCalculadora\bin\Debug\net7.0\ProjetaCalculadora.dll
+C:\Users\202308424653\ProjetaCalculadora\bin\Debug\net7.0\ProjetaCalculadora.pdb
+C:\Users\202308424653\ProjetaCalculadora\obj\Debug\net7.0\ProjetaCalculadora.dll
+C:\Users\202308424653\ProjetaCalculadora\obj\Debug\net7.0\refint\ProjetaCalculadora.dll
+C:\Users\202308424653\ProjetaCalculadora\obj\Debug\net7.0\ProjetaCalculadora.pdb
+C:\Users\202308424653\ProjetaCalculadora\obj\Debug\net7.0\ProjetaCalculadora.genruntimeconfig.cache
+C:\Users\202308424653\ProjetaCalculadora\obj\Debug\net7.0\ref\ProjetaCalculadora.dll
